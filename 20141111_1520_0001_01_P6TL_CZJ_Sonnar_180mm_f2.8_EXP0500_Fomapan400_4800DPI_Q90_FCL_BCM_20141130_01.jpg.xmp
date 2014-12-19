@@ -4,17 +4,17 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:darktable="http://darktable.sf.net/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="5"
    xmpMM:DerivedFrom="20141111_1520_0001_01_P6TL_CZJ_Sonnar_180mm_f2.8_EXP0500_Fomapan400_4800DPI_Q90_FCL_BCM_20141130.jpg"
+   exif:GPSLongitude="17,48.433333E"
+   exif:GPSLatitude="51,39.283333N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1"
-   exif:GPSLongitude="17,48.433333E"
-   exif:GPSLatitude="51,39.283333N">
+   darktable:auto_presets_applied="1">
    <darktable:mask_id>
     <rdf:Seq>
      <rdf:li>1417391506</rdf:li>
@@ -830,8 +830,8 @@
      <rdf:li>3</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -842,7 +842,7 @@
      <rdf:li>0</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -852,8 +852,8 @@
      <rdf:li>vignette</rdf:li>
      <rdf:li>sharpen</rdf:li>
      <rdf:li>spots</rdf:li>
-     <rdf:li>channelmixer</rdf:li>
      <rdf:li>spots</rdf:li>
+     <rdf:li>channelmixer</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -863,8 +863,8 @@
      <rdf:li>0000b44200004842000000bf801283bb0000000000000000000000000000803f0000803f02000000</rdf:li>
      <rdf:li>b81ea540b6f3ad3f0000003f</rdf:li>
      <rdf:li>gz03eJzVyy1LA1AAQNGtrAwMrlg0LNnsVotlQXjZZDAtaBhszyKIRQaCoDANMphh+AEaVtwwCJtlFsEkA4MLCw7dFAbi+Ru7cOLduyqFMkeccEaVC+rc0OSRDl16fDBgyITUdSlkmGOeLIvsfMVQpsI5de5o8cQLye8YUsyQYWMUQ54tCuxzwCHHnFLjklsa3PNAmy5/ZMcxdHjmjXf6DEj+xDDLAiuskmONdTbJs02RXV7p8Un6188SyySmtH/SxbZb</rdf:li>
-     <rdf:li>000000000000000000000000c84ba73f0000803fb81e05be00000000000000000000000000000000806ce73d0000000000fed4bc00000000000000000000000000000000288716be0000000058645b3f00000000</rdf:li>
      <rdf:li>gz07eJzb2lUfchyIbwHxUyB+BcSS3fUhlkAcBMQRQBwLxClAnAHEjUBcsqg+pBqIO4B4ExBvA2LBxfUhIkAsCcRyQKwExAxDADANtAMGGAAAyTYqgw==</rdf:li>
+     <rdf:li>000000000000000000000000c84ba73f0000803fb81e05be00000000000000000000000000000000806ce73d0000000000fed4bc00000000000000000000000000000000288716be0000000058645b3f00000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -874,8 +874,8 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz10eJxjYGBgkGAAgRNOILJzXXUIA0HQYA/BI4sPAA+HGwk=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz10eJxjYGBgkGAAgRNOIHJ7V30IA0HQYA/BI4sPAB8rGxc=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>

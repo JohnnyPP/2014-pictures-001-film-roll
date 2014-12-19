@@ -5,13 +5,16 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmp:Rating="1"
+   xmp:Rating="2"
    xmpMM:DerivedFrom="20141111_1522_0002_02_P6TL_CZJ_Sonnar_180mm_f2.8_EXP0500_Fomapan400_4800DPI_Q90_FCL_BCH_20141130.jpg"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="1"
+   exif:GPSLongitude="17,48.433333E"
+   exif:GPSLatitude="51,39.283333N">
    <darktable:mask_id>
     <rdf:Seq>
      <rdf:li>1417476568</rdf:li>
@@ -93,6 +96,23 @@
      <rdf:li>1417477171</rdf:li>
      <rdf:li>1417476571</rdf:li>
      <rdf:li>1417477178</rdf:li>
+     <rdf:li>1417645079</rdf:li>
+     <rdf:li>1417645109</rdf:li>
+     <rdf:li>1417645118</rdf:li>
+     <rdf:li>1417645125</rdf:li>
+     <rdf:li>1417645138</rdf:li>
+     <rdf:li>1417645168</rdf:li>
+     <rdf:li>1417645181</rdf:li>
+     <rdf:li>1417645189</rdf:li>
+     <rdf:li>1417645205</rdf:li>
+     <rdf:li>1417645222</rdf:li>
+     <rdf:li>1417645229</rdf:li>
+     <rdf:li>1417645277</rdf:li>
+     <rdf:li>1417645290</rdf:li>
+     <rdf:li>1417645304</rdf:li>
+     <rdf:li>1417645308</rdf:li>
+     <rdf:li>1417645080</rdf:li>
+     <rdf:li>1417645312</rdf:li>
     </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
@@ -158,6 +178,23 @@
      <rdf:li>9</rdf:li>
      <rdf:li>9</rdf:li>
      <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>12</rdf:li>
      <rdf:li>9</rdf:li>
      <rdf:li>9</rdf:li>
      <rdf:li>9</rdf:li>
@@ -259,10 +296,44 @@
      <rdf:li>circle #78</rdf:li>
      <rdf:li>grp spot removal </rdf:li>
      <rdf:li>circle #79</rdf:li>
+     <rdf:li>circle #80</rdf:li>
+     <rdf:li>circle #82</rdf:li>
+     <rdf:li>circle #83</rdf:li>
+     <rdf:li>circle #84</rdf:li>
+     <rdf:li>circle #85</rdf:li>
+     <rdf:li>circle #86</rdf:li>
+     <rdf:li>circle #87</rdf:li>
+     <rdf:li>circle #88</rdf:li>
+     <rdf:li>circle #89</rdf:li>
+     <rdf:li>circle #90</rdf:li>
+     <rdf:li>circle #91</rdf:li>
+     <rdf:li>circle #92</rdf:li>
+     <rdf:li>circle #93</rdf:li>
+     <rdf:li>circle #94</rdf:li>
+     <rdf:li>circle #95</rdf:li>
+     <rdf:li>grp spot removal 1</rdf:li>
+     <rdf:li>circle #96</rdf:li>
     </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -425,6 +496,23 @@
      <rdf:li>78d61e3d000a723b1677863b9999093b</rdf:li>
      <rdf:li>gz06eJxd0iFIAwEABdDJ0LKyIstLmizCYDPMhcHCpUNMNoNtZWxlhsWlgZjGgpaFCa6IWQQtgghiOJEJwsAgwoqCekGFK3sffnj5/+hrf+vpr+nUfzrll8SZxK94hj9xjBe/553BWbyM83gVr+EC3sCbuIoDHOId3MAt3MYdfIAH+BgP8Qk+xef4El/jG3yHH/AjfsZT/I5jvPDDP3AOr+B1XMQVXMMBDvE23sV7uI6buIt7+BD38REe4TE+wxf4Ct/iexzhCZ7iNzzDHzjGSzF74xL+BfVxwPo=</rdf:li>
      <rdf:li>4087b53b80300d3c1677863b9999093b</rdf:li>
+     <rdf:li>7ab9453faebf203f1477073c5c3c203b</rdf:li>
+     <rdf:li>d42c5a3f60c56f3f1477073c5c3c203b</rdf:li>
+     <rdf:li>e895333f02b04c3f1477073c5c3c203b</rdf:li>
+     <rdf:li>ae3d763f480a2a3f1477073c5c3c203b</rdf:li>
+     <rdf:li>63d5253f065c7b3f1477073c5c3c203b</rdf:li>
+     <rdf:li>afebc73e1343c63ea678053b5c3c203b</rdf:li>
+     <rdf:li>e1a9da3e2fa5c73ea678053b5c3c203b</rdf:li>
+     <rdf:li>a6e0c43ea865d13ea678053b5c3c203b</rdf:li>
+     <rdf:li>9596d13e645cf53ea678053b5c3c203b</rdf:li>
+     <rdf:li>8bb74a3fef13de3ea678053b5c3c203b</rdf:li>
+     <rdf:li>73a5393f2daede3ea678053b5c3c203b</rdf:li>
+     <rdf:li>a8d1473f07edc43e7b6ba63b5c3c203b</rdf:li>
+     <rdf:li>42c6653f0278e73e8e77013bc277013b</rdf:li>
+     <rdf:li>efca623f3eb9dd3e8e77013bc277013b</rdf:li>
+     <rdf:li>9c3a673f6b81d93e8e77013bc277013b</rdf:li>
+     <rdf:li>gz04eJwT76kPkQBiZgYQaLA3hfK5oXw7NL4rGj8IjV+Axq9F47ei8aei8Zeh8dei8e+i8V+h8X+g8f+g8Rl6UfkA6B9CMA==</rdf:li>
+     <rdf:li>2ba1513f9840ab3e8e77013bc277013b</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
@@ -507,6 +595,23 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>78</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>16</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:mask_nb>
@@ -591,6 +696,23 @@
      <rdf:li>036c503d9566753c</rdf:li>
      <rdf:li>000000000a000000</rdf:li>
      <rdf:li>ebc2783cf6f9423c</rdf:li>
+     <rdf:li>9bee483ff8f01b3f</rdf:li>
+     <rdf:li>afaa5c3f89fb6a3f</rdf:li>
+     <rdf:li>a9d0383fa0c64b3f</rdf:li>
+     <rdf:li>c62c713f6cec273f</rdf:li>
+     <rdf:li>9275283f0cef773f</rdf:li>
+     <rdf:li>6afaca3e3586c63e</rdf:li>
+     <rdf:li>df65dc3ec4f2c63e</rdf:li>
+     <rdf:li>ee8ac63e9952d13e</rdf:li>
+     <rdf:li>84a9d33e7479f33e</rdf:li>
+     <rdf:li>238a4b3fb16ddb3e</rdf:li>
+     <rdf:li>ec2a3a3f3ca3dd3e</rdf:li>
+     <rdf:li>851b4a3fc942c13e</rdf:li>
+     <rdf:li>267e663f72b4e33e</rdf:li>
+     <rdf:li>9406643f6d8cdb3e</rdf:li>
+     <rdf:li>4076683f9a54d73e</rdf:li>
+     <rdf:li>0000000020000000</rdf:li>
+     <rdf:li>4135523f7d83a93e</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
    <darktable:colorlabels>
@@ -599,48 +721,122 @@
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
     <rdf:Seq>
      <rdf:li>spots</rdf:li>
+     <rdf:li>spots</rdf:li>
+     <rdf:li>sharpen</rdf:li>
+     <rdf:li>tonecurve</rdf:li>
+     <rdf:li>shadhi</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
     <rdf:Seq>
      <rdf:li>gz03eJzdziFrQgEAhdEZZrGsjGWTJstAmCsaBINJHqa1BdvK0KLBuDQQkxi0GDZwZZhFcEUYwlhwYYLwYGEIlgnbXtj5Hbtw8v1W361gwwc79kQc/rSCBEcckyRNhizn5ClSpsIF1zRo0qZDnyEj7hkzYcYTC5a88saakC0RsV8dnJDilDMKlChTocolNa6oc8MtXXoMuOOBR6bMeeaFFe+EfLLji4h45JscB/9kf1u3tW8=</rdf:li>
+     <rdf:li>gz09eJwT76kPMQViOyB2BeIgIC4A4logbgXiqUC8DIjXAvFdIH4FxD+A+A8QM/QC8RAHTAPtgAEGAGwLHio=</rdf:li>
+     <rdf:li>643bcf409cc4403f0000003f</rdf:li>
+     <rdf:li>gz07eJxjYICAHr1dtgwMCrbr+6PsgFy7jU8XAukCu6ff/gDpd3ZzOyPsGRjigLgBiukO7CF4wOwnBAal+9iBmBmKmZAwI1QeRAMAK9YTbA==</rdf:li>
+     <rdf:li>000000000000c8420000484200000000000048c200000000000048420000c842000048427f000000bd378635</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
      <rdf:li>gz10eJxjYGBgkGAAgRNOIPL2z5oQBoKgwR6CRxYfAL6CG6c=</rdf:li>
+     <rdf:li>gz10eJxjYGBgkGAAgRNOIFKipz6EgSBosIfgkcUHAHDuGno=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
+     <rdf:li>1</rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>6x6cm</rdf:li>
+     <rdf:li>ISO_400</rdf:li>
+     <rdf:li>Medium_format</rdf:li>
+     <rdf:li>Polska</rdf:li>
+     <rdf:li>Przygodzice</rdf:li>
+     <rdf:li>Dzialka</rdf:li>
+     <rdf:li>Ostrow</rdf:li>
+     <rdf:li>November</rdf:li>
+     <rdf:li>201411</rdf:li>
+     <rdf:li>2014</rdf:li>
+     <rdf:li>Sonnar</rdf:li>
+     <rdf:li>001_film_roll</rdf:li>
+     <rdf:li>P6TL</rdf:li>
+     <rdf:li>CanoScan_9000F_Mark_II</rdf:li>
+     <rdf:li>4800DPI</rdf:li>
+     <rdf:li>Fomapan400</rdf:li>
+     <rdf:li>Carl_Zeiss</rdf:li>
+     <rdf:li>CZJ_Sonnar_180mm_f2.8</rdf:li>
+     <rdf:li>PentaconSixTL</rdf:li>
+     <rdf:li>Pentacon</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>6x6cm</rdf:li>
+     <rdf:li>ISO_400</rdf:li>
+     <rdf:li>Medium_format</rdf:li>
+     <rdf:li>Polska</rdf:li>
+     <rdf:li>Przygodzice</rdf:li>
+     <rdf:li>Dzialka</rdf:li>
+     <rdf:li>Ostrow</rdf:li>
+     <rdf:li>November</rdf:li>
+     <rdf:li>201411</rdf:li>
+     <rdf:li>2014</rdf:li>
+     <rdf:li>Sonnar</rdf:li>
+     <rdf:li>001_film_roll</rdf:li>
+     <rdf:li>P6TL</rdf:li>
+     <rdf:li>CanoScan_9000F_Mark_II</rdf:li>
+     <rdf:li>4800DPI</rdf:li>
+     <rdf:li>Fomapan400</rdf:li>
+     <rdf:li>Carl_Zeiss</rdf:li>
+     <rdf:li>CZJ_Sonnar_180mm_f2.8</rdf:li>
+     <rdf:li>PentaconSixTL</rdf:li>
+     <rdf:li>Pentacon</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
